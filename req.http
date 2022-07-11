@@ -1,0 +1,10 @@
+POST http://localhost:3000/product/create
+Content-Type: application/json
+
+{
+    ""
+    "quantity": 160
+}
+
+###
+GET http://localhost:3000/product/62cb98d35224c46ab279f1df
